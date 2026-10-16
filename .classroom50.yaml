@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "imperial-math50009-2026"
+assignment: "exercises-chapter-3"
+owner:
+  username: "Yu-yixin"
+  id: 239437438
+  accepted_at: "2026-10-16T12:02:41Z"
+source:
+  owner: "Imperial-MATH50009"
+  owner_id: 70899143
+  repo: "exercises-chapter-3"
+  branch: "main"
